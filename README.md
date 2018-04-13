@@ -1,3 +1,3 @@
 # helloword
-#master
-#feature
+
+мене звати  Сергій я студент 2 курсу
